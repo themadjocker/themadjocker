@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 🚀
+# Hello, I'm Nikhil Jain 🚀
 
 Welcome to my GitHub profile! I'm a passionate student on a journey to master web development and programming.
 
