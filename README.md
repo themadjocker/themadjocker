@@ -14,8 +14,8 @@
       <code>MODULE.STATUS // ACTIVE</code><br>
       <code>SEQUENCE: IDENTITY SCAN</code><br><br>
       <picture>
-        <source srcset="./assets/portrait/portrait_morph.gif" type="image/gif">
-        <img src="./assets/portrait/portrait_fallback.png" width="100%" alt="Cyber-styled Loki portrait with cyan scanlines and HUD framing">
+        <source srcset="https://raw.githubusercontent.com/themadjocker/themadjocker/main/assets/portrait/portrait_morph.gif" type="image/gif">
+        <img src="https://raw.githubusercontent.com/themadjocker/themadjocker/main/assets/portrait/portrait_fallback.png" width="100%" alt="Cyber-styled Loki portrait with cyan scanlines and HUD framing">
       </picture><br><br>
       <code>FALLBACK: STATIC PNG // READY</code><br><br>
       <strong>└─ PORTRAIT.SCAN // VERIFIED</strong>
