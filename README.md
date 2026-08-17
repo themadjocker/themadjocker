@@ -10,12 +10,15 @@
 <table width="100%" cellpadding="14" cellspacing="0">
   <tr>
     <td width="50%" valign="top">
-      <strong>┌─ [03] MORPHING CYBER PORTRAIT</strong><br><br>
-      <code>STATUS: RESERVED</code><br>
-      <code>MODULE: PENDING BUILD</code><br><br>
-      Reserved visual area for the future portrait-preserving ASCII / particle module.
-      <br><br>
-      <strong>└─ PORTRAIT SLOT // STANDBY</strong>
+      <strong>┌─ [03] MORPHING CYBER PORTRAIT</strong><br>
+      <code>MODULE.STATUS // ACTIVE</code><br>
+      <code>SEQUENCE: IDENTITY SCAN</code><br><br>
+      <picture>
+        <source srcset="assets/portrait/portrait_morph.gif" type="image/gif">
+        <img src="assets/portrait/portrait_fallback.png" width="100%" alt="Cyber-styled Loki portrait with cyan scanlines and HUD framing">
+      </picture><br><br>
+      <code>FALLBACK: STATIC PNG // READY</code><br><br>
+      <strong>└─ PORTRAIT.SCAN // VERIFIED</strong>
     </td>
     <td width="50%" valign="top">
       <strong>┌─ [02] SYSTEM.INFO</strong><br><br>

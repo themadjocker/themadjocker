@@ -2,18 +2,19 @@
 
 ## OPEN
 
+No open bugs currently block the implemented Phase 03 portrait module.
+
+## RESOLVED
+
 ### BUG-05 — Mobile rendering not validated
 
 **Severity:** MEDIUM  
 **Introduced:** Phase 01  
-**Component:** `[01] IDENTITY / HERO CONTAINER`  
+**Component:** `[01] IDENTITY / HERO CONTAINER` and `[03] MORPHING CYBER PORTRAIT`  
 **Description:** Phase 01 was visually checked at desktop width, but narrow/mobile GitHub rendering was not validated with live GitHub evidence.  
-**Current status:** OPEN  
-**Target phase:** Phase 02 validation or the earliest phase with reliable narrow-width access.
+**Resolution:** Performed a controlled Chromium render of the live GitHub profile at 390px wide after the portrait GIF and static fallback were integrated. The title wrapped, the portrait remained within the hero card, SYSTEM.INFO remained readable, and no horizontal page overflow was observed. Physical-device and Firefox rendering remain explicitly unverified limitations rather than blockers.  
+**Resolved in phase:** Phase 03.
 
-The current implementation avoids arbitrary fixed browser dimensions and uses a 100%-width table structure, but live narrow-width rendering remains unverified in this environment.
-
-## RESOLVED
 
 ### BUG-01 — Default HTML table border
 
