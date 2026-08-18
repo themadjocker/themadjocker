@@ -1,0 +1,185 @@
+{
+  "contribution_window": {
+    "days": 365,
+    "from": "2025-08-18",
+    "to": "2026-08-18"
+  },
+  "foundation": {
+    "archived_repositories": 0,
+    "languages": [
+      "CSS",
+      "GLSL",
+      "HTML",
+      "Handlebars",
+      "Java",
+      "JavaScript",
+      "Less",
+      "PLpgSQL",
+      "Python",
+      "SCSS",
+      "TypeScript"
+    ],
+    "repositories": [
+      {
+        "description": null,
+        "forks": 0,
+        "is_archived": false,
+        "languages": [
+          "Python"
+        ],
+        "name": "themadjocker",
+        "stars": 0,
+        "url": "https://github.com/themadjocker/themadjocker"
+      },
+      {
+        "description": null,
+        "forks": 0,
+        "is_archived": false,
+        "languages": [
+          "CSS",
+          "GLSL",
+          "HTML",
+          "TypeScript"
+        ],
+        "name": "MediaTek-Project",
+        "stars": 0,
+        "url": "https://github.com/themadjocker/MediaTek-Project"
+      },
+      {
+        "description": null,
+        "forks": 0,
+        "is_archived": false,
+        "languages": [
+          "CSS",
+          "HTML",
+          "JavaScript",
+          "TypeScript"
+        ],
+        "name": "Prescura_CodeFrost",
+        "stars": 0,
+        "url": "https://github.com/themadjocker/Prescura_CodeFrost"
+      },
+      {
+        "description": null,
+        "forks": 0,
+        "is_archived": false,
+        "languages": [
+          "CSS",
+          "HTML",
+          "JavaScript",
+          "TypeScript"
+        ],
+        "name": "Gramsetu",
+        "stars": 0,
+        "url": "https://github.com/themadjocker/Gramsetu"
+      },
+      {
+        "description": null,
+        "forks": 0,
+        "is_archived": false,
+        "languages": [
+          "CSS",
+          "JavaScript",
+          "PLpgSQL",
+          "TypeScript"
+        ],
+        "name": "cryo-vault-backend-api",
+        "stars": 0,
+        "url": "https://github.com/themadjocker/cryo-vault-backend-api"
+      },
+      {
+        "description": null,
+        "forks": 0,
+        "is_archived": false,
+        "languages": [
+          "CSS",
+          "HTML",
+          "JavaScript",
+          "TypeScript"
+        ],
+        "name": "stock-market-prediction",
+        "stars": 0,
+        "url": "https://github.com/themadjocker/stock-market-prediction"
+      },
+      {
+        "description": null,
+        "forks": 0,
+        "is_archived": false,
+        "languages": [
+          "CSS",
+          "JavaScript",
+          "TypeScript"
+        ],
+        "name": "shopping-platform",
+        "stars": 0,
+        "url": "https://github.com/themadjocker/shopping-platform"
+      },
+      {
+        "description": null,
+        "forks": 0,
+        "is_archived": false,
+        "languages": [
+          "CSS",
+          "HTML",
+          "Handlebars",
+          "JavaScript",
+          "Less",
+          "SCSS"
+        ],
+        "name": "ashion-master-manav",
+        "stars": 0,
+        "url": "https://github.com/themadjocker/ashion-master-manav"
+      },
+      {
+        "description": null,
+        "forks": 0,
+        "is_archived": false,
+        "languages": [
+          "CSS",
+          "HTML",
+          "JavaScript",
+          "TypeScript"
+        ],
+        "name": "securepass-gate",
+        "stars": 0,
+        "url": "https://github.com/themadjocker/securepass-gate"
+      },
+      {
+        "description": null,
+        "forks": 0,
+        "is_archived": false,
+        "languages": [
+          "CSS",
+          "HTML"
+        ],
+        "name": "interactive-navbar-with-hover-",
+        "stars": 0,
+        "url": "https://github.com/themadjocker/interactive-navbar-with-hover-"
+      },
+      {
+        "description": null,
+        "forks": 0,
+        "is_archived": false,
+        "languages": [
+          "Java"
+        ],
+        "name": "car-guessing-game",
+        "stars": 0,
+        "url": "https://github.com/themadjocker/car-guessing-game"
+      }
+    ],
+    "repositories_excluding_forks": 11
+  },
+  "generated_at": "2026-08-18T11:07:19Z",
+  "login": "themadjocker",
+  "metrics": {
+    "commits": 24,
+    "contributions": 36,
+    "issues": 0,
+    "languages": 11,
+    "pull_requests": 0,
+    "repositories": 11,
+    "stars": 0
+  },
+  "schema_version": 1
+}

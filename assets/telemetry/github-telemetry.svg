@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="278" viewBox="0 0 960 278" role="img" aria-labelledby="title desc">
+<title id="title">GitHub telemetry for themadjocker</title>
+<desc id="desc">A generated static dashboard showing repositories, languages, contributions, commits, pull requests, issues, and stars.</desc>
+<rect width="960" height="278" fill="#0A0A12"/>
+<rect x="10" y="10" width="940" height="258" rx="3" fill="#12121F" stroke="#00F0FF" stroke-width="1"/>
+<path d="M10 48H950M24 246H936" stroke="#2A2A3D"/>
+<path d="M24 48H194" stroke="#00F0FF" stroke-width="2"/>
+<text x="24" y="36" class="title">[04] GITHUB.TELEMETRY</text>
+<text x="936" y="36" text-anchor="end" class="meta">SNAPSHOT // 2026-08-18</text>
+<style>
+.title { fill:#E8E8F0; font-family:'DejaVu Sans Mono','Liberation Mono',monospace; font-size:20px; font-weight:700; letter-spacing:1px; }
+.meta { fill:#A0A0B8; font-family:'DejaVu Sans Mono','Liberation Mono',monospace; font-size:12px; letter-spacing:.5px; }
+.label { fill:#A0A0B8; font-family:'DejaVu Sans Mono','Liberation Mono',monospace; font-size:11px; letter-spacing:1px; }
+.value { font-family:'DejaVu Sans Mono','Liberation Mono',monospace; font-size:28px; font-weight:700; }
+.footer { fill:#A0A0B8; font-family:'DejaVu Sans Mono','Liberation Mono',monospace; font-size:11px; letter-spacing:.5px; }
+</style>
+<g>
+  <rect x="24" y="66" width="219" height="72" rx="2" fill="#1A1A2E" stroke="#2A2A3D"/>
+  <rect x="24" y="66" width="4" height="72" fill="#00F0FF"/>
+  <text x="40" y="89" class="label">REPOSITORIES</text>
+  <text x="40" y="120" class="value" fill="#00F0FF">11</text>
+</g>
+<g>
+  <rect x="255" y="66" width="219" height="72" rx="2" fill="#1A1A2E" stroke="#2A2A3D"/>
+  <rect x="255" y="66" width="4" height="72" fill="#00F0FF"/>
+  <text x="271" y="89" class="label">LANGUAGES</text>
+  <text x="271" y="120" class="value" fill="#00F0FF">11</text>
+</g>
+<g>
+  <rect x="486" y="66" width="219" height="72" rx="2" fill="#1A1A2E" stroke="#2A2A3D"/>
+  <rect x="486" y="66" width="4" height="72" fill="#39FF14"/>
+  <text x="502" y="89" class="label">CONTRIBUTIONS</text>
+  <text x="502" y="120" class="value" fill="#39FF14">36</text>
+</g>
+<g>
+  <rect x="717" y="66" width="219" height="72" rx="2" fill="#1A1A2E" stroke="#2A2A3D"/>
+  <rect x="717" y="66" width="4" height="72" fill="#39FF14"/>
+  <text x="733" y="89" class="label">COMMITS</text>
+  <text x="733" y="120" class="value" fill="#39FF14">24</text>
+</g>
+<g>
+  <rect x="24" y="150" width="219" height="72" rx="2" fill="#1A1A2E" stroke="#2A2A3D"/>
+  <rect x="24" y="150" width="4" height="72" fill="#39FF14"/>
+  <text x="40" y="173" class="label">PULL REQUESTS</text>
+  <text x="40" y="204" class="value" fill="#39FF14">0</text>
+</g>
+<g>
+  <rect x="255" y="150" width="219" height="72" rx="2" fill="#1A1A2E" stroke="#2A2A3D"/>
+  <rect x="255" y="150" width="4" height="72" fill="#39FF14"/>
+  <text x="271" y="173" class="label">ISSUES</text>
+  <text x="271" y="204" class="value" fill="#39FF14">0</text>
+</g>
+<g>
+  <rect x="486" y="150" width="219" height="72" rx="2" fill="#1A1A2E" stroke="#2A2A3D"/>
+  <rect x="486" y="150" width="4" height="72" fill="#39FF14"/>
+  <text x="502" y="173" class="label">STARS</text>
+  <text x="502" y="204" class="value" fill="#39FF14">0</text>
+</g>
+<text x="24" y="266" class="footer">SOURCE: AUTHENTICATED GITHUB GRAPHQL // WINDOW: LAST 365 DAYS // GENERATED ASSET</text>
+</svg>

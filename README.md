@@ -36,3 +36,26 @@
 </table>
 
 ---
+
+## [04] GITHUB.TELEMETRY
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/themadjocker/themadjocker/main/assets/telemetry/github-telemetry.svg" width="100%" alt="GitHub telemetry dashboard showing repositories, languages, contributions, commits, pull requests, issues, and stars">
+</p>
+
+<details>
+<summary>Accessible telemetry values</summary>
+
+| Metric | Value | Window / definition |
+|---|---:|---|
+| Repositories | 11 | Public repositories owned by `themadjocker`, excluding forks |
+| Languages | 11 | Unique language names across those repositories |
+| Contributions | 36 | GitHub contribution-calendar total over the latest 365-day snapshot window |
+| Commits | 24 | GitHub commit contributions over the same snapshot window |
+| Pull requests | 0 | GitHub pull-request contributions over the same snapshot window |
+| Issues | 0 | GitHub issue contributions over the same snapshot window |
+| Stars | 0 | Sum of stargazers across the included owned, public, non-fork repositories |
+
+</details>
+
+---
