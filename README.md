@@ -15,7 +15,7 @@
       <code>SEQUENCE: IDENTITY SCAN</code><br><br>
       <picture>
         <source srcset="https://raw.githubusercontent.com/themadjocker/themadjocker/main/assets/portrait/portrait_morph.gif" type="image/gif">
-        <img src="https://raw.githubusercontent.com/themadjocker/themadjocker/main/assets/portrait/portrait_fallback.png" width="100%" alt="Cyber-styled Loki portrait with cyan scanlines and HUD framing">
+        <img src="https://raw.githubusercontent.com/themadjocker/themadjocker/main/assets/portrait/portrait_fallback.png" width="100%" alt="Loki reconstructed from living cyan particles on a near-black cyber field">
       </picture><br><br>
       <code>FALLBACK: STATIC PNG // READY</code><br><br>
       <strong>└─ PORTRAIT.SCAN // VERIFIED</strong>
