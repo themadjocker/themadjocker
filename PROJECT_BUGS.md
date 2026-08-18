@@ -104,3 +104,7 @@ No open bugs currently block the corrected Phase 03 portrait module.
 **Description:** The temporary footer did not belong to the locked architecture because the social/contact/footer component had not been implemented.  
 **Resolution:** Removed the temporary footer from `README.md`.  
 **Resolved in phase:** Phase 02.
+
+## PHASE 04 REVIEW NOTE
+
+Phase 04 telemetry was validated locally, in a successful manually dispatched GitHub Action run, on the live GitHub desktop profile, and in a controlled 390px Chromium render. No new blocking bug was discovered. The local SVG preview tool displayed square glyphs for text, but the live GitHub browser rendering displayed the telemetry labels and values correctly; this is recorded as a local preview-tool limitation rather than a repository defect.
