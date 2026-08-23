@@ -6,7 +6,7 @@
 <path d="M10 48H950M24 246H936" stroke="#2A2A3D"/>
 <path d="M24 48H194" stroke="#00F0FF" stroke-width="2"/>
 <text x="24" y="36" class="title">[04] GITHUB.TELEMETRY</text>
-<text x="936" y="36" text-anchor="end" class="meta">SNAPSHOT // 2026-08-18</text>
+<text x="936" y="36" text-anchor="end" class="meta">SNAPSHOT // 2026-08-23</text>
 <style>
 .title { fill:#E8E8F0; font-family:'DejaVu Sans Mono','Liberation Mono',monospace; font-size:20px; font-weight:700; letter-spacing:1px; }
 .meta { fill:#A0A0B8; font-family:'DejaVu Sans Mono','Liberation Mono',monospace; font-size:12px; letter-spacing:.5px; }
