@@ -1,8 +1,8 @@
 {
   "contribution_window": {
     "days": 365,
-    "from": "2025-09-13",
-    "to": "2026-09-13"
+    "from": "2025-09-20",
+    "to": "2026-09-20"
   },
   "foundation": {
     "archived_repositories": 0,
@@ -21,6 +21,17 @@
     ],
     "repositories": [
       {
+        "description": null,
+        "forks": 0,
+        "is_archived": false,
+        "languages": [
+          "Python"
+        ],
+        "name": "themadjocker",
+        "stars": 0,
+        "url": "https://github.com/themadjocker/themadjocker"
+      },
+      {
         "description": "web hackathon of iit Bhubaneshwar",
         "forks": 0,
         "is_archived": false,
@@ -32,17 +43,6 @@
         "name": "Web_Hackathon",
         "stars": 1,
         "url": "https://github.com/themadjocker/Web_Hackathon"
-      },
-      {
-        "description": null,
-        "forks": 0,
-        "is_archived": false,
-        "languages": [
-          "Python"
-        ],
-        "name": "themadjocker",
-        "stars": 0,
-        "url": "https://github.com/themadjocker/themadjocker"
       },
       {
         "description": null,
@@ -183,7 +183,7 @@
     ],
     "repositories_excluding_forks": 12
   },
-  "generated_at": "2026-09-13T08:15:35Z",
+  "generated_at": "2026-09-20T08:32:02Z",
   "login": "themadjocker",
   "metrics": {
     "commits": 65,
