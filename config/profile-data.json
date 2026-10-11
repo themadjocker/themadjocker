@@ -1,8 +1,8 @@
 {
   "contribution_window": {
     "days": 365,
-    "from": "2025-10-04",
-    "to": "2026-10-04"
+    "from": "2025-10-11",
+    "to": "2026-10-11"
   },
   "foundation": {
     "archived_repositories": 0,
@@ -20,6 +20,20 @@
       "TypeScript"
     ],
     "repositories": [
+      {
+        "description": null,
+        "forks": 0,
+        "is_archived": false,
+        "languages": [
+          "CSS",
+          "GLSL",
+          "HTML",
+          "TypeScript"
+        ],
+        "name": "MediaTek-Project",
+        "stars": 1,
+        "url": "https://github.com/themadjocker/MediaTek-Project"
+      },
       {
         "description": null,
         "forks": 0,
@@ -57,20 +71,6 @@
         "name": "Web_Hackathon",
         "stars": 1,
         "url": "https://github.com/themadjocker/Web_Hackathon"
-      },
-      {
-        "description": null,
-        "forks": 0,
-        "is_archived": false,
-        "languages": [
-          "CSS",
-          "GLSL",
-          "HTML",
-          "TypeScript"
-        ],
-        "name": "MediaTek-Project",
-        "stars": 0,
-        "url": "https://github.com/themadjocker/MediaTek-Project"
       },
       {
         "description": null,
@@ -183,16 +183,16 @@
     ],
     "repositories_excluding_forks": 12
   },
-  "generated_at": "2026-10-04T09:43:22Z",
+  "generated_at": "2026-10-11T09:56:23Z",
   "login": "themadjocker",
   "metrics": {
-    "commits": 67,
-    "contributions": 78,
+    "commits": 68,
+    "contributions": 79,
     "issues": 0,
     "languages": 11,
     "pull_requests": 1,
     "repositories": 12,
-    "stars": 2
+    "stars": 3
   },
   "schema_version": 1
 }
