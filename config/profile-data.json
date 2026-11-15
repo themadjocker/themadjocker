@@ -1,8 +1,8 @@
 {
   "contribution_window": {
     "days": 365,
-    "from": "2025-11-08",
-    "to": "2026-11-08"
+    "from": "2025-11-15",
+    "to": "2026-11-15"
   },
   "foundation": {
     "archived_repositories": 0,
@@ -183,7 +183,7 @@
     ],
     "repositories_excluding_forks": 12
   },
-  "generated_at": "2026-11-08T10:14:13Z",
+  "generated_at": "2026-11-15T10:46:22Z",
   "login": "themadjocker",
   "metrics": {
     "commits": 64,
